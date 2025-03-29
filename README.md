@@ -1,5 +1,5 @@
 # all python program
-all python program
+
 num1=int(input("enter a number: "))
 if(num1>0 and num1%2==0):
    print("It is positive even ") 
